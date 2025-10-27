@@ -7,8 +7,18 @@ assignees: ''
 
 ---
 
-As a <user>
+### Description  
+[Explain what the task is and why it matters.]
 
-I can <action>
+### Acceptance Criteria  
+- [ ] Task is completed and committed to GitHub  
+- [ ] Code runs without errors  
+- [ ] Output is correct and documented  
+- [ ] Commit message is clear and descriptive  
 
-So that <benefit>
+### Labels  
+Add: `must-have`, `eda`, `data-cleaning`, etc.
+
+### Milestone  
+Assign to: `Backlog`
+
